@@ -11,3 +11,5 @@
 6 - testar servidor node index.js
 7 - npm install -g nodemon
 8 - nodemon index.js
+    (Dica importante nodemon é utilizado para desenvolvimento do site, deixando o serviço ativo é possível realizar alterações no site e apenas apertar f5 e ver as alterações)
+9 - 
